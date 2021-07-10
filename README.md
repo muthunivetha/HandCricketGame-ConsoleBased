@@ -12,8 +12,8 @@ Write an application that simulates the random gestures of the players and print
 # Sample Run: 
 
 Who bats first?
-1) Player A
-2) PLayer B
+1-> Player A
+2-> PLayer B
 2
 Player B is batting
 3---Batsman.gesture--
