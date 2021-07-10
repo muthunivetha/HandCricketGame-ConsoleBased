@@ -15,11 +15,11 @@ Who bats first?
 1) Player A
 2) PLayer B
 2
-***Player B is batting***
+Player B is batting
 3---Batsman.gesture--
 3---Bowler.gesture--
 0---playscore
-***Player A is batting***
+Player A is batting
 0---Batsman.gesture--
 1---Bowler.gesture--
 3---Batsman.gesture--
